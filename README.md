@@ -4,35 +4,35 @@
 
 ### Schematics
 
-[![BE-AMP SCHEMATIC REVIEW](assets/demo/schematic.png)](assets/demo/schematic.pdf)
+[![USB_DEBUG SCHEMATIC REVIEW](assets/demo/schematic.png)](assets/demo/schematic.pdf)
 ### PCB Layout
 
 #### Parameter
-[![BE-AMP PARAMETER](assets/demo/pcb-dimension.png)](assets/demo/pcb-dimension.svg)
+[![USB_DEBUG PARAMETER](assets/demo/pcb-dimension.png)](assets/demo/pcb-dimension.png)
 
 #### Top side
 
-[![BE-AMP PCB REVIEW](assets/demo/pcb-top.png)](assets/demo/pcb-top.svg)
+[![USB_DEBUG PCB REVIEW](assets/demo/pcb-top.png)](assets/demo/pcb_top.png)
 
 #### Back side
 
-[![BE-AMP PCB REVIEW](assets/demo/pcb-bottom.png)](assets/demo/pcb-bottom.svg)
+[![USB_DEBUG PCB REVIEW](assets/demo/pcb-bottom.png)](assets/demo/pcb_bottom.png)
 
 ### 3D
 
 #### Top side
 
-![BE-AMP 3D REVIEW](assets/demo/3d-top.png)
+![USB_DEBUG 3D REVIEW](assets/demo/3d_top.png)
 
 #### Back side
 
-![BE-AMP 3D REVIEW](assets/demo/3d-bottom.png)
+![USB_DEBUG 3D REVIEW](assets/demo/3d_bottom.png)
 
 ### Gerber
 
 Version 1.0
 
-- [Gerber V1.0](./assets/pas-master_v1.0.zip)
+- [Gerber V0.0](./assets/demo/gerber.rar)
 
 ### Remark
 
