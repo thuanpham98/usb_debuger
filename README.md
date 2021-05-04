@@ -12,25 +12,25 @@
 
 #### Top side
 
-[![USB_DEBUG PCB REVIEW](assets/demo/pcb-top.png)](assets/demo/pcb_top.png)
+[![USB_DEBUG PCB REVIEW](assets/demo/pcb_top.png)](assets/demo/pcb_top.png)
 
 #### Back side
 
-[![USB_DEBUG PCB REVIEW](assets/demo/pcb-bottom.png)](assets/demo/pcb_bottom.png)
+[![USB_DEBUG PCB REVIEW](assets/demo/pcb_bottom.png)](assets/demo/pcb_bottom.png)
 
 ### 3D
 
 #### Top side
 
-![USB_DEBUG 3D REVIEW](assets/demo/3d_top.png)
+![USB_DEBUG 3D REVIEW(assets/demo/3d_top.png)](assets/demo/3d_top.png)
 
 #### Back side
 
-![USB_DEBUG 3D REVIEW](assets/demo/3d_bottom.png)
+![USB_DEBUG 3D REVIEW(assets/demo/3d_bottom.png)](assets/demo/3d_bottom.png)
 
 ### Gerber
 
-Version 1.0
+Version 0.0
 
 - [Gerber V0.0](./assets/demo/gerber.rar)
 
